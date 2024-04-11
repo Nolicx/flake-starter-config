@@ -1,5 +1,11 @@
 # ultimate guide video repo
 
+## channel
+https://www.youtube.com/@vimjoyer
+
+## video
+https://www.youtube.com/watch?v=a67Sv4Mbxmc
+
 ## search for packages
 
 https://search.nixos.org/packages
